@@ -104,21 +104,21 @@ section:hover{
 }
 
 .icono.direc{
-    background-image: url('/iconos/direc.png');
+    background-image: url('direc.png');
 }
 
 .icono.telf{
-    background-image: url('/iconos/telf.png');
+    background-image: url('telf.png');
 }
 
 .icono.gmail{
-    background-image: url('/iconos/gmail.png');
+    background-image: url('gmail.png');
 }
 
 .icono.linkedin{
-    background-image: url('/iconos/linkedin.png');
+    background-image: url('linkedin.png');
 }
 
 .icono.git{
-    background-image: url('/iconos/github.png');
+    background-image: url('github.png');
 }
